@@ -1,13 +1,13 @@
 [![Fear's github stats](https://github-readme-stats.vercel.app/api?username=FearOfficial&show_icons=true&theme=radical)](https://github.com/FearOfficial/FearOfficial)
 > * * * *
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FearOfficial&langs_count=8&theme=radical)](https://github.com/FearOfficial/FearOfficial)
-- ⚡ Fun fact: This is the account for the main dev for Fear v4!
-- 💬 Ask me about Fear v4!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I specialize in Discord.js / HTML5 Websites
+- 💬 Ask me about Fear v5 / Remi AI!
+- 📫 How to reach me: ~ Fearful ~#2000 - On Discord
 <!--
 **FearOfficial/FearOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
