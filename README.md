@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AGB & Fear**
 
-- 📫 How to reach me **purityy.vrc@gmail.com**
+- 📫 How to reach me **fearful@agb-dev.xyz**
 
 - ⚡ Fun fact **I have no life !**
 
