@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fearofficial" alt="fearofficial" /></a> </p>
 
-- 🔭 I’m currently working on [Fear v6](https://top.gg/bot/594189989143904264)
+- 🔭 I’m currently working on [AGB](https://agb-dev.xyz)
 
-- 🌱 I’m currently learning **TypeScript & Python**
+- 👯 AGB on [Top.gg!](https://top.gg/bot/723726581864071178)
 
-- 👯 Also working on [AGB](https://top.gg/bot/723726581864071178)
+- 🌱 I’m currently learning **C# && Python**
 
-- 💬 Ask me about **AGB & Fear**
+- 💬 Ask me about **AGB**
 
 - 📫 How to reach me **fearful@agb-dev.xyz**
 
-- ⚡ Fun fact **I have no life !**
+- ⚡ Fun fact **I'm the developer for a mental breakdown !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
