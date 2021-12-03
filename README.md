@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fifi</h1>
-<h3 align="center">~ Head developer for code errors ~</h3>
+<h3 align="center">~ Lunar Development ~</h3>
 
 ```
              _
