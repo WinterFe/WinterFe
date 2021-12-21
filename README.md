@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fifi</h1>
 <h3 align="center">~ Lunar Development ~</h3>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=FearOfficial" alt=""></p>
+
 ```
              _
              \`*-.
