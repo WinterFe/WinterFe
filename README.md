@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Fifi
+  Hi 👋, I'm Winter
   <br><br>
   <img src="https://discord.c99.nl/widget/theme-3/683530527239962627.png" alt="Discord Banner">
 </h1>
@@ -20,12 +20,12 @@
              ; *` _.   `*-._
              `-.-'          `-.
                ;  <3   `       `.
-               :.   AGB . AgeBot \
+               :.  AGB . LunarAPI \
                . \  .   :   .-'   .
                '  `+.;  ;  '      :
                :  '  |    ;       ;-.
                ; '   : :`-:     _.`* ;
-  [honor]   .*' /  .*' ; .*`- +'  `*'    [Python, C#, JS, SQL]
+  [Mei]   .*' /  .*' ; .*`- +'  `*'    [Python, C#, JS, SQL]
       [ily] `*-*   `*-*  `*-*'   [contact@lunardev.group]
-        [AgeBot] - [AceFifi#2000]
+        [AGB] - [WinterFe#2000]
 ```
