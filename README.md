@@ -25,7 +25,7 @@
                '  `+.;  ;  '      :
                :  '  |    ;       ;-.
                ; '   : :`-:     _.`* ;
-  [Mei]   .*' /  .*' ; .*`- +'  `*'    [Python, C#, JS, SQL]
+  [<3]    .*' /  .*' ; .*`- +'  `*'    [Python, C#, JS, SQL]
       [ily] `*-*   `*-*  `*-*'   [contact@lunardev.group]
         [AGB] - [WinterFe#2000]
 ```
