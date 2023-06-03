@@ -20,12 +20,12 @@
              ; *` _.   `*-._
              `-.-'          `-.
                ;  <3   `       `.
-               :.  AGB . LunarAPI \
+               :.  You . LunarAPI \
                . \  .   :   .-'   .
                '  `+.;  ;  '      :
                :  '  |    ;       ;-.
                ; '   : :`-:     _.`* ;
   [<3]    .*' /  .*' ; .*`- +'  `*'    [Python, C#, JS, SQL]
       [ily] `*-*   `*-*  `*-*'   [contact@lunardev.group]
-        [AGB] - [WinterFe#2000]
+        [You] - [WinterFe#2000]
 ```
