@@ -27,5 +27,5 @@
                ; '   : :`-:     _.`* ;
   [<3]    .*' /  .*' ; .*`- +'  `*'    [Python, C#, JS, SQL]
       [ily] `*-*   `*-*  `*-*'   [contact@lunardev.group]
-        [You] - [WinterFe#2000]
+        [You] - [winterfe]
 ```
